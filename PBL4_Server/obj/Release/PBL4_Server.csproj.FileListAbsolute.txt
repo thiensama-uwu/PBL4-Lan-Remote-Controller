@@ -1,0 +1,10 @@
+D:\DotNet Project\PBL4_0\PBL4_Server\bin\Release\PBL4_Server.exe.config
+D:\DotNet Project\PBL4_0\PBL4_Server\bin\Release\PBL4_Server.exe
+D:\DotNet Project\PBL4_0\PBL4_Server\bin\Release\PBL4_Server.pdb
+D:\DotNet Project\PBL4_0\PBL4_Server\obj\Release\PBL4_Server.csproj.AssemblyReference.cache
+D:\DotNet Project\PBL4_0\PBL4_Server\obj\Release\PBL4.PBL4_Server.GUI.DetailPC.resources
+D:\DotNet Project\PBL4_0\PBL4_Server\obj\Release\PBL4_GUI.Properties.Resources.resources
+D:\DotNet Project\PBL4_0\PBL4_Server\obj\Release\PBL4_Server.csproj.GenerateResource.cache
+D:\DotNet Project\PBL4_0\PBL4_Server\obj\Release\PBL4_Server.csproj.CoreCompileInputs.cache
+D:\DotNet Project\PBL4_0\PBL4_Server\obj\Release\PBL4_Server.exe
+D:\DotNet Project\PBL4_0\PBL4_Server\obj\Release\PBL4_Server.pdb

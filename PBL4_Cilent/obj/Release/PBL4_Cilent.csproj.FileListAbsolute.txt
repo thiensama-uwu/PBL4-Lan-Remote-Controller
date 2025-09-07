@@ -1,0 +1,10 @@
+D:\DotNet Project\PBL4_0\PBL4_Cilent\bin\Release\PBL4_Cilent.exe.config
+D:\DotNet Project\PBL4_0\PBL4_Cilent\bin\Release\PBL4_Cilent.exe
+D:\DotNet Project\PBL4_0\PBL4_Cilent\bin\Release\PBL4_Cilent.pdb
+D:\DotNet Project\PBL4_0\PBL4_Cilent\obj\Release\PBL4_Cilent.csproj.AssemblyReference.cache
+D:\DotNet Project\PBL4_0\PBL4_Cilent\obj\Release\PBL4_Cilent.Form1.resources
+D:\DotNet Project\PBL4_0\PBL4_Cilent\obj\Release\PBL4_Cilent.Properties.Resources.resources
+D:\DotNet Project\PBL4_0\PBL4_Cilent\obj\Release\PBL4_Cilent.csproj.GenerateResource.cache
+D:\DotNet Project\PBL4_0\PBL4_Cilent\obj\Release\PBL4_Cilent.csproj.CoreCompileInputs.cache
+D:\DotNet Project\PBL4_0\PBL4_Cilent\obj\Release\PBL4_Cilent.exe
+D:\DotNet Project\PBL4_0\PBL4_Cilent\obj\Release\PBL4_Cilent.pdb
